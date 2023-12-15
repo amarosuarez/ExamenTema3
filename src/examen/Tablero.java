@@ -5,7 +5,7 @@ import java.util.Random;
 public class Tablero {
 
 	// Atributo constante que marca el número de casillas que tiene el tablero
-	static final int TAM_TABLERO = 8;
+	static final int TAM_TABLERO = 20;
 
 	// Atributo que marca la posición del jugador 1 en el tablero
 	int fichaJ1 = 0;
